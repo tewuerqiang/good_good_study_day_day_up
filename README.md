@@ -1,2 +1,1 @@
-# good_good_study_day_day_up
-考试学习
+#考试学习记录
